@@ -25,3 +25,8 @@ Sources
 Manuscript scans: Zenodo (DOI: [insert DOI]).
 License
 CC BY-NC-SA 4.0 (free use with attribution).
+**Sources (Zenodo)**
+All scans and microphotographs of the manuscript are published on Zenodo:
+*   **Volume 1:** [DOI: 10.5281/zenodo.23145261](https://doi.org/10.5281/zenodo.23145261)
+*   **Volume 2:** [DOI: 10.5281/zenodo.23146257](https://doi.org/10.5281/zenodo.23146257)
+*   **Material Analysis (Microphotos):** [DOI: 10.5281/zenodo.23160006](https://doi.org/10.5281/zenodo.23160006)

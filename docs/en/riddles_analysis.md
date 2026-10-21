@@ -1,4 +1,4 @@
-# Analysis of 15 Riddles (Deciphered by the Authors)
+# Analysis of 24 Riddles (Deciphered by the Authors)
 
 This document presents the analysis of 15 cyclical riddles from the five-volume Chinese manuscript. These specific riddles were deciphered by the authors of this repository, as they required the application of the "Cyclical Key" (Heavenly Stems and Earthly Branches) rather than being explicitly explained in the text itself.
 
@@ -166,3 +166,66 @@ This document presents the analysis of 15 cyclical riddles from the five-volume 
 *   **Result:** 卯 (Mǎo) — Year of the Rabbit.
 *   **Years:** 1927, 1987, 2047.
 *   **Meaning:** Cyclical marker. 1927 — year of the beginning of the Chinese Civil War.
+---
+
+## Part 2: Expanded Riddles (Decoded during the research)
+
+This section contains riddles and hidden codes discovered and decoded during the second phase of the research. They were not included in the original list of 15 items.
+
+### 16. 黃馬 (Yellow Horse) — Volume 3, p. 7
+*   **Original:** 黃馬
+*   **Pinyin:** Huáng mǎ
+*   **Analysis:** 黃 (yellow = earth) = 戊 (wù, 5th stem); 馬 (horse) = 午 (wǔ, 7th branch).
+*   **Result:** 戊午 (Wùwǔ) — Year of the Earth Horse.
+*   **Years:** 1918, 1978.
+*   **Meaning:** Cyclical marker. 1918 was the year WWI ended (possibly a coincidence).
+
+### 17. 土猴 (Earth Monkey) — Volume 1, p. 4
+*   **Original:** 土猴
+*   **Pinyin:** Tǔ hóu
+*   **Analysis:** 土 (earth) = 戊 (wù, 5th stem); 猴 (monkey) = 申 (shēn, 9th branch).
+*   **Result:** 戊申 (Wùshēn) — Year of the Earth Monkey.
+*   **Years:** 1968, 2028.
+*   **Meaning:** Cyclical marker. Mentioned in the methodology as an example (Volume 1, p. 4).
+
+### 18. 口上口 — Volume 3, p. 4
+*   **Original:** 口上口
+*   **Pinyin:** Kǒu shàng kǒu
+*   **Analysis:** 口 (mouth) + 口 (mouth) = **吕** (Lǚ) or **回** (Huí).
+*   **Meaning:** Surname Lü (Chancellor of Qin) or "return".
+
+### 19. 古月 — Volume 3, p. 2 and 4
+*   **Original:** 古月
+*   **Pinyin:** Gǔ yuè
+*   **Analysis:** 古 (ancient) + 月 (moon) = **胡** (Hú).
+*   **Meaning:** "Hu people" (barbarians, Manchus).
+
+### 20. 日月 — Volume 3, p. 1
+*   **Original:** 日月
+*   **Pinyin:** Rì yuè
+*   **Analysis:** 日 (sun) + 月 (moon) = **明** (Míng).
+*   **Meaning:** Ming Dynasty.
+
+### 21. 闖門一馬 — Volume 3, p. 1
+*   **Original:** 闖門一馬
+*   **Pinyin:** Chuǎng mén yī mǎ
+*   **Analysis:** 門 (gate) + 馬 (horse) = **闖** (chuǎng — to burst in).
+*   **Meaning:** Invasion.
+
+### 22. 水火既濟 — Volume 3, p. 4
+*   **Original:** 水火既濟
+*   **Pinyin:** Shuǐ huǒ jì jì
+*   **Analysis:** Hexagram 63 "Ji Ji" (Already Fording).
+*   **Meaning:** End of a cycle (symbol of dynastic change).
+
+### 23. 至於八月有凶 — Volume 5, p. 5
+*   **Original:** 至於八月有凶
+*   **Pinyin:** Zhìyú bā yuè yǒu xiōng
+*   **Analysis:** Direct reference to the "eighth month".
+*   **Meaning:** The eighth month is a time of catastrophe (linked to the omission of the 8th month in the Volume 3 table).
+
+### 24. 己日乃孚 — Volume 5, p. 1
+*   **Original:** 己日乃孚
+*   **Pinyin:** Jǐ rì nǎi fú
+*   **Analysis:** Reference to the "Ji day" (6th day of the 60-year cycle).
+*   **Meaning:** The day of revolution (dynastic change).

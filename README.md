@@ -20,8 +20,8 @@ A five-volume collection of prophetic texts, including:
 4.  **Scripts:** The `/scripts/` folder contains Python scripts (in Russian) for updating the database.
 
 **Repository Structure**
-*   `/docs/en/riddles_analysis.md` — analysis of 15 riddles (in English).
-*   `/docs/ru/riddles_analysis.md` — analysis of 15 riddles (in Russian).
+*   `/docs/en/riddles_analysis.md` — analysis of 5 riddles (in English).
+*   `/docs/ru/riddles_analysis.md` — analysis of 5 riddles (in Russian).
 *   `/scripts/` — Python scripts (in Russian).
 
 **Sources (Zenodo)**

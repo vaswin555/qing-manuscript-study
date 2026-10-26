@@ -1,3 +1,8 @@
+> **⚠️ STATUS: WORK IN PROGRESS.** 
+> This section is under active investigation. 
+> We have temporarily paused the publication of hypotheses until the analysis of Volume 1 is complete. 
+> The list will be updated as new data becomes available.
+
 # Open Questions: Riddles Requiring Further Investigation
 
 This document contains a list of riddles and hidden codes from the five-volume manuscript that are **not yet solved** or **remain uncertain**. 
